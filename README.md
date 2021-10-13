@@ -13,8 +13,8 @@ Default user email and password for login:-email,password,job type
  admin@test.com,123,Admin.
   
 All avaible page for test:
-  localhost/auth/login
-  localhost/qa
-  localhost/rd
-  localhost/pm
+  localhost/auth/login,
+  localhost/qa,
+  localhost/rd,
+  localhost/pm,
   localhost/admin
